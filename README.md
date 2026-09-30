@@ -87,7 +87,7 @@ This improves efficiency by avoiding unnecessary repeated calculations.
 The following screenshot demonstrates the results of the unit tests executed using **Vitest**.
 
 <p align="center">
-  <img src="screenshots/tests.png" alt="Vitest Test Results" width="800">
+  <img src="screenshots/tests.screenshots.png" alt="Vitest Test Results" width="800">
 </p>
 
 <p align="center">
