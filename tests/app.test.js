@@ -39,7 +39,7 @@ describe('Functions Tests (Part 1)', () => {
     expect(memoized(5)).toBe(10);
     expect(memoized(5)).toBe(10);
     expect(calls).toBe(1);
-    expect(memoize('not function')('test')).toBe('not function');
+    expect(memoize('not function')).toBe('not function');
   });
 
   it('6. counter factory should work via closure', () => {
